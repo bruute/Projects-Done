@@ -1,0 +1,5 @@
+Asks user to set the width, length, & height of two boxes. 
+Gives the user an option to add a window and/or door to the two boxes. 
+User gets option to also name the box.
+Program then asks the user how they would like to combine the two boxes (either stacking them on top of each other or placing them side by side). 
+Calculates final sizes.
