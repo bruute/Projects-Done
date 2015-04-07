@@ -1,0 +1,7 @@
+You have 11 entries for the entire house. This includes all the rooms given
+to us in the project details plus the entire floor area. I drew out a map of the house
+and gave each room a specific size. In order to manipulate linked lists. I had the list 
+go down starting from the hallway in the middle then moving left into dining area, then 
+going down and an back up on the right side of the house like a U shape. Then I had all 
+the entries set up in a hashtable where I would later use the hashtables again to pull
+the correct info in order to show the user the size of each entry. 
