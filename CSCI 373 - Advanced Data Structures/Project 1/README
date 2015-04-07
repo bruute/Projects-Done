@@ -1,0 +1,5 @@
+Simple program that Outputs the following:
+
+sizeof built in types (long, char, float, double, & bool)
+sizeof struct types (long, char, float, double, & bool)
+sizeof class type (long, char, float, double, & bool)
